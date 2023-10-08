@@ -44,6 +44,6 @@ INSERT INTO LHPetsFornecedores.Computer values ('Dog&CIA', '43.102.264/0001-69',
 SELECT * FROM LHPetsClientes.Computer where Paciente ='Dibu'
 SELECT * FROM LHPetsFornecedores.Computer where Nome = 'Agrobichos'
 
-CREATE TRIGGER AdicionarPaciente
+
  
 
